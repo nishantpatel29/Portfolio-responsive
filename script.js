@@ -19,7 +19,7 @@ Example.timescale = function() {
 
     // create renderer
     var render = Render.create({
-        element: document.querySelector('.main'),
+        element: document.querySelector('.main-canvas'),
         engine: engine,
         options: {
             width: window.innerWidth,
