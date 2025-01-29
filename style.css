@@ -438,6 +438,7 @@ canvas {
     /* background-color: red; */
     width: 100%;
     flex: 1;
+    
     display: flex;
 }
 .contact .vertical-line{
@@ -451,7 +452,6 @@ canvas {
     justify-content: center;
     align-items: baseline;
     position: relative;
-    /* background-color: #fff; */
 }
 .form{
     width: 100%;
