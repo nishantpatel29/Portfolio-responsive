@@ -441,9 +441,8 @@ canvas {
     
     display: flex;
 }
-.contact .vertical-line{
-    /* display: none; */
-    /* opacity: 0; */
+.let{
+    font-size:2rem;
 }
 .contact-left{
     width: 50%;
@@ -669,9 +668,7 @@ button:hover{
     transform: translateX(-50%);
     bottom: 10%;
     font-size: 1.6rem;
-& a{
-    
-}}
+}
 .v{
     color: rgb(119, 117, 117);
     display: flex;
