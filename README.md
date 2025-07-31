@@ -36,7 +36,6 @@ https://nishant-profile.netlify.app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
+   git clone git@github.com:nishantpatel29/Portfolio-responsive.git
 
 
